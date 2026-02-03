@@ -9,8 +9,6 @@ body {
     width: 100vw;
     height: 100vh;
     background-color: hsl(30, 38%, 92%);
-    display: grid;
-    place-items: center;
 }
 
 .container {
